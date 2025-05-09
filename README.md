@@ -1,4 +1,4 @@
-# IEEE_Dataport_AI_Solution
+# IEEE_DataPort_AI_Solution
  IEEE Dataport AI Solution (Wearable Health Hackathon - Develop a solution to early diagnose diseases using non-invasive methods and health data)
 
  # This work is on Development of a robust model for the detection of coronary heart disease using machine learning techniques 
